@@ -42,6 +42,7 @@ public class InvertedBarChartArr {
              
              max--;
              
+             sc.close();
           }
           
           

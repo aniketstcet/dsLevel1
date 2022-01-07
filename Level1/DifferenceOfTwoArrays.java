@@ -79,7 +79,8 @@ public class DifferenceOfTwoArrays {
         {
         System.out.println(c[k]);
         }
-        
+       
+        sc.close();
      }
     
 }

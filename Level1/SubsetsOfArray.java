@@ -54,6 +54,8 @@ public class SubsetsOfArray {
                 System.out.print(arr[i]);
                 i--;
             }
+
+           
         }
      
     
